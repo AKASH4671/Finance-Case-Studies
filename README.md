@@ -1,4 +1,4 @@
-# Finance Case Studies Portfolio
+# Corporate Strategy & Valuation Analysis
 
 This repository contains independent finance case studies analyzing strategic corporate transactions across technology and digital industries. The studies combine financial analysis, valuation methodologies, and industry research to evaluate the strategic and economic implications of major acquisitions.
 
